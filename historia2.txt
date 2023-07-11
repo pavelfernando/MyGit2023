@@ -1,0 +1,2 @@
+este es el segundo archivo creado para 
+usar GIT23
